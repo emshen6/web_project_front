@@ -3,7 +3,7 @@ import './App.css';
 import {Header} from './components/Header';
 import { MainPage } from './components/MainPage';
 import Footer from './components/Footer';
-import Catalogue from './components/Catalogue';
+import {Catalogue} from './components/Catalogue';
 
 
 function App() {
